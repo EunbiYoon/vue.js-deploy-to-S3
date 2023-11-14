@@ -1,24 +1,3 @@
-# my-app
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Colab Notebooks ⚡
+If you want to see the detailed code explanation, please access to below google colab notebook.
+https://colab.research.google.com/drive/1iuSu29vrktNLFFOCbWFdmh49NdWqTcMh?usp=sharing
